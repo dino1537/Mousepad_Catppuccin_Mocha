@@ -4,7 +4,7 @@
   <author>Dino</author>
   <_description>Catppuccin color scheme</_description>
   
-	<!-- Dracula Color Palette -->
+	<!-- Catppuccin Color Palette -->
 	<color name="background" value="#1e1e2e"/>
 	<color name="current-line" value="#313244"/>
 	<color name="selection" value="#b7bdf8"/>
